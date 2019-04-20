@@ -1,0 +1,11 @@
+{
+  "name": "2-tidy-numbers",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.7.1"
+  }
+}
